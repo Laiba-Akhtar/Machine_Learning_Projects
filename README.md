@@ -1,3 +1,4 @@
 # Titanic
 Internship_task
-MODEL APPLIED:
+Approach, Findings, Rationale behind your model:
+The
